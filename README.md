@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Epistoteles
 - 🎓 I’m studying Intelligent Adaptive Systems (M.Sc.) @ University of Hamburg
-- 🌱 I’m currently working on Dreamer for goal-conditioned envs
 - 🐍 I’m writing crappy Python code (sometimes)
 
 <!---
