@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Epistoteles
+- 👋 Hi, I’m @epistoteles
 - 🎓 I’m studying Intelligent Adaptive Systems (M.Sc.) @ University of Hamburg
 - 🐍 I’m writing crappy Python code (sometimes)
 
