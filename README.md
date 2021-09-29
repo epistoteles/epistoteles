@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @epistoteles
 - 🎓 I’m studying Intelligent Adaptive Systems (M.Sc.) @ University of Hamburg
+- 🇨🇦 Currently visiting University of Toronto for two semesters
 - 🐍 I’m writing crappy Python code (sometimes)
 
 <!---
