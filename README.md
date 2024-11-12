@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @epistoteles
-Building Agents for Accenture.
+Building agents for Accenture Song.
 
 I recently finished my Master’s degree in Intelligent Adaptive Systems at the University of Hamburg. In the past, I have interned at the Vector Institute for Artificial Intelligence in Toronto and MOIA, a ridesharing startup based in Hamburg.
 
